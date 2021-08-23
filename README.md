@@ -1,5 +1,5 @@
-# Movie Ratings Analysis
-analyzing movie ratings in movie series
+# Movie Ratings Analysis (Group Project)
+Analyzing the Change in Movie Ratings within a Movie Series
 
 ## heading
 
