@@ -1,2 +1,4 @@
-# movie-ratings-analysis
+# Movie Ratings Analysis
 analyzing movie ratings in movie series
+
+----
