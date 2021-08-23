@@ -60,7 +60,6 @@ This trend holds true for 6/7 movies analyzed. The only outlier in this select s
 
 Putting the analysis' limitations to the side, we were able to accept the null hypothesis that the ratings decrease as subsequent movies are produced.
 
-Below is the agregated chart for all the movies and its average rating:
 
 
 This observation is confirmed by the Rotten Tomato data. Similar to the IMDB ratings, as subsequent movies within the same movie series were produced, the ratings decreased, never to recover to the first movie's ratings.
@@ -69,7 +68,4 @@ While using IMDB's ratings 6/7 movies confirm that finding, simply looking at Ro
 
 Putting the analysis' limitations to the side, we could not accept (or reject)the null hypothesis that the ratings decrease as subsequent movies are produced from the Rotten Tomato data as the data is inconclusive.
 
-Below is the agregated chart for all the movies and its Rotten Tomato Score:
-
-
-Obviously, however, froma statistics standpoint, the data collected is not substantial enough to either accept or reject our null hypothesis that movie ratings decrease through out a movie series
+Obviously, however, from a statistics standpoint, the data collected is not substantial enough to either accept or reject our null hypothesis that movie ratings decrease through out a movie series
