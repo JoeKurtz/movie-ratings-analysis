@@ -1,7 +1,7 @@
 # Movie Ratings Analysis (Group Project)
 Analyzing the Change in Movie Ratings within a Movie Series
 
-## heading
+## Idea Formation
 
 After being handed this assignment with the IMDB dataframe, we wondered to ourselves what exactly we were going to anaylyze. Each memeber of our group are self-identified movie fanatics, where one of our favorite hobbies is to sit back and watch a movie with some friends.
 
